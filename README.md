@@ -76,7 +76,7 @@ OpenWeatherMap
 Please see their Terms of Service.
 
 🎥 Demo Video
-[Add your YouTube or Netlify-hosted video link here]
+https://youtu.be/uB444nPBRPs
 
 💬 Challenges & Notes
 Decided to deploy as a static frontend for speed and simplicity using Netlify.
